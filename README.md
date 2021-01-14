@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jvlessa/Strapi.io/main/media/repo_logo.png" width="450">
 </p>
-<br/><hr/>
+<br/>
 
 ## THIS REPOSITORY MAIN'S GOAL
 - Studuying a bit about this headless and open-sourced CMS;
