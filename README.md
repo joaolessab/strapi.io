@@ -18,7 +18,7 @@
 1. Install your package:
 - <b>NPM:</b>
 - [Install Node.JS and NPM here](https://strapi.io/documentation/developer-docs/latest/installation/cli.html#step-1-make-sure-requirements-are-met);
-- Refresh NPM to last version:
+- Refresh NPM to last version (at the time that I'm writing this, Strapi.io dependencies only accepts NodeJs on theses versions: ">=10.16.0 <=14.x.x"):
 ``npm install npm@latest -g``
 
 - <b>YARN:</b>
