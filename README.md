@@ -1,10 +1,7 @@
-<h1 align="center"><b>STRAPI.IO</b></h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/jvlessa/Strapi.io/main/media/repo_logo.png" width="550">
+  Repository focused on: Studuying a bit about this headless and open-sourced CMS;
 </p>
-
-- Repository focused on: Studuying a bit about this headless and open-sourced CMS;
 
 ## NOTES
 - [Official Documentation](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
