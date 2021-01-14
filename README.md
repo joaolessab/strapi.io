@@ -15,9 +15,17 @@
 
 ## INSTALLATION AND RUNNING STRAPI.IO
 - [Guide Video](https://www.youtube.com/watch?v=zd0_S_FPzKg&feature=youtu.be)
-1. [Chose to install Node.JS and NPM here](https://strapi.io/documentation/developer-docs/latest/installation/cli.html#step-1-make-sure-requirements-are-met);
-1. [Or Install Yarn Package here](https://yarnpkg.com/en/)
-2. For Node, run:
+1. Install your package:
+- <b>NPM:</b>
+- [Install Node.JS and NPM here](https://strapi.io/documentation/developer-docs/latest/installation/cli.html#step-1-make-sure-requirements-are-met);
+- Refresh NPM to last version:
+``npm install npm@latest -g``
+
+- <b>YARN:</b>
+- [Install Yarn Package here](https://yarnpkg.com/en/)
+
+2. Run your package command:
+- <b>NPM:</b>
 ``npx create-strapi-app my-project --quickstart``
-2. For Yarn, run:
+- <b>YARN:</b>
 ``yarn create strapi-app my-project --quickstart``
