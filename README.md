@@ -4,7 +4,7 @@
 <br/><hr/>
 <h2 align="center">
   Repository focused on: Studuying a bit about this headless and open-sourced CMS
-<h2>
+</h2>
 
 ## NOTES
 - [Official Documentation](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
