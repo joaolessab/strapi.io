@@ -1,3 +1,4 @@
+<h1 align="center"><b>STRAPI.IO</b></h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jvlessa/Strapi.io/main/media/repo_logo.png" width="450">
 </p>
