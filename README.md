@@ -40,5 +40,9 @@
 - Run Strapi.io
 ``npm start`` or ``yarn start``
 
+4. To edit and create "Content-Types Builder"
+- Run Strapi.io
+``yarn develop``
+
 ## IMPORTANT LINKS
 - [How to run a Strapi dev stack with Docker compose](https://strapi.io/blog/how-to-run-a-strapi-dev-stack-with-docker-compose)
