@@ -33,10 +33,8 @@
 3. Possible errors:
 - The official video of Strap.io does not show dependencies errors, so I had to do some stuff on my own:
 - Enter the folder project and run:
-```
-cd my-project
-npm install OR yarn install
-```
+``npm install`` OR ``yarn install``
+
 - Wait for everything to update
 ``npm run-script build`` or ``yarn run-script build``
 - Run Strapi.io
