@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/jvlessa/Strapi.io/main/media/repo_logo.png" width="450">
 </p>
 <br/><hr/>
-<h2 align="center">
-  Repository focused on: Studuying a bit about this headless and open-sourced CMS
-</h2>
+
+## THIS REPOSITORY MAIN'S GOAL
+- Studuying a bit about this headless and open-sourced CMS;
 
 ## NOTES
 - [Official Documentation](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
