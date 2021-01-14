@@ -29,3 +29,18 @@
 ``npx create-strapi-app my-project --quickstart``
 - <b>YARN:</b>
 ``yarn create strapi-app my-project --quickstart``
+
+3. Possible errors:
+- The official video of Strap.io does not show dependencies errors, so I had to do some stuff on my own:
+- Enter the folder project and run:
+```
+cd my-project
+npm install OR yarn install
+```
+- Wait for everything to update
+``npm run-script build`` or ``yarn run-script build``
+- Run Strapi.io
+``npm start`` or ``yarn start``
+
+## IMPORTANT LINKS
+- [How to run a Strapi dev stack with Docker compose](https://strapi.io/blog/how-to-run-a-strapi-dev-stack-with-docker-compose)
