@@ -95,3 +95,13 @@
 2. http://localhost:1337/homepage
 
 - You should see the JSON files;
+
+## PLUGINS
+### Swagger
+- To install and use it, go to "MarketPlace": http://localhost:1337/admin/marketplace;
+- Search for "Documentation";
+- Install it as an Administrator;
+- Restart Strapi.io;
+- Open "Extensions";
+- Open "Documentations";
+- Click "Open the documentation";
