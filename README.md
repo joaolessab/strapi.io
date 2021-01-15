@@ -105,3 +105,6 @@
 - Open "Extensions";
 - Open "Documentations";
 - Click "Open the documentation";
+
+## HOW TO CONSUME THE CONTENT TYPE'S API
+- Check [these documentations](https://strapi.io/documentation/developer-docs/latest/getting-started/quick-start.html#_9-consume-the-content-type-s-api) for the language or framework of your preference;
