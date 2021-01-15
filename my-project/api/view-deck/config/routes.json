@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/view-decks",
+      "handler": "view-deck.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/view-decks/count",
+      "handler": "view-deck.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/view-decks/:id",
+      "handler": "view-deck.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/view-decks",
+      "handler": "view-deck.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/view-decks/:id",
+      "handler": "view-deck.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/view-decks/:id",
+      "handler": "view-deck.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
