@@ -15,6 +15,7 @@
 
 ## INSTALLATION AND RUNNING STRAPI.IO
 - [Guide Video](https://www.youtube.com/watch?v=zd0_S_FPzKg&feature=youtu.be)
+
 1. Install your package:
 - <b>NPM:</b>
 - [Install Node.JS and NPM here](https://strapi.io/documentation/developer-docs/latest/installation/cli.html#step-1-make-sure-requirements-are-met);
@@ -43,6 +44,9 @@
 4. To edit and create "Content-Types Builder"
 - Run Strapi.io
 ``yarn develop``
+
+# OTHER KIND OF INSTALLATIONS
+- <b>Strapi.io with MongoDB on Ubuntu:</b> [Clicke here](https://strapi.io/documentation/developer-docs/latest/guides/databases.html#mongodb-installation)
 
 ## IMPORTANT LINKS
 - [How to run a Strapi dev stack with Docker compose](https://strapi.io/blog/how-to-run-a-strapi-dev-stack-with-docker-compose)
