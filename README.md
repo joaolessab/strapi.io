@@ -84,11 +84,11 @@
 2. Add data to the Single Types using the components;
 
 ## SETTING ROLES AND PERMISSIONS
-1. Go to the Roles and Permissions;
-2. Go to the public: http://localhost:1337/admin/settings/users-permissions/roles;
-3. Habilite os seguintes:
+1. Go to the "Roles and Permissions";
+2. Go to the "Public": http://localhost:1337/admin/settings/users-permissions/roles;
+3. Allow those permissions:
 - Application: find;
-- ViewDecks: find, findone;
+- [Our content-type name]: find, findone;
 
 ## PUBLISH
 - If you do not click "Publish" on "ViewDeck's Content-Type" and "Homepage's Single-Type", they won't appear at the browser and API's;
